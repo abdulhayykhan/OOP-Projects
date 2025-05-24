@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class Car 
+class Car {
     String model;
     long price;
     int horsepower;
