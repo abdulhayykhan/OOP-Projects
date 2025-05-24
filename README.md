@@ -2,7 +2,7 @@
 
 A collection of beginner to intermediate-level projects built using various programming languages and frameworks to demonstrate **Object-Oriented Programming (OOP)** principles.
 
-
+---
 
 ## 📌 Projects in This Repository
 
@@ -11,17 +11,36 @@ A Java AWT-based GUI application that allows users to configure a car purchase b
 
 **🧠 Concepts Covered**  
 - Classes & Objects  
-- Encapsulation
-- Inheritance
-- Polymorphism 
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
 - GUI Event Handling  
 
 **🛠 Tech Stack**  
 - Java ☕  
 - AWT (Abstract Window Toolkit) 🖼️
 
+---
 
-🔹 **More projects coming soon...**  
+### 2. **Bank Management System 🏦**  
+A C++ console-based banking application that allows users to manage accounts, including creating, modifying, searching, depositing, and withdrawing funds. It uses OOP principles and file handling for persistent storage.
+
+**🧠 Concepts Covered**  
+- Classes & Objects  
+- Encapsulation  
+- Constructors  
+- File Handling  
+- Vector STL  
+- Menu-driven CLI
+
+**🛠 Tech Stack**  
+- C++ 💻  
+- Standard Template Library (STL)  
+- File Streams (fstream)
+
+
+
+🔹 **More projects coming soon...**
 
 
 
@@ -40,7 +59,6 @@ Have suggestions or want to collaborate on exciting OOP-based builds? Let’s co
 ## 📜 License
 
 This repository is licensed under the **MIT License** – feel free to use, modify, and distribute it within the license terms.
-
 
 💡 *Let’s build and learn together! If you find these projects useful, please ⭐ the repository to support more content!*  
 
