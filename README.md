@@ -1,4 +1,4 @@
-# 🚀 OOP-Projects
+# 🚀 OOP Projects
 
 A collection of beginner to intermediate-level projects built using various programming languages and frameworks to demonstrate **Object-Oriented Programming (OOP)** principles.
 
