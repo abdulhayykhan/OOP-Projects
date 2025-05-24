@@ -20,7 +20,7 @@ A Java AWT-based GUI application that allows users to configure a car purchase b
 - Java ☕  
 - AWT (Abstract Window Toolkit) 🖼️
 
----
+
 
 ### 2. **Bank Management System 🏦**  
 A C++ console-based banking application that allows users to manage accounts, including creating, modifying, searching, depositing, and withdrawing funds. It uses OOP principles and file handling for persistent storage.
