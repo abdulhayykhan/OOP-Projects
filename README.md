@@ -40,7 +40,7 @@ A C++ console-based banking application that allows users to manage accounts, in
 
 ---
 
-### 3. **Interactive GUI Chess Game ♟️**  
+### 3. **Chess Game ♟️**  
 A Python-based graphical chess game with a fully interactive 8x8 board using Tkinter. The game enforces chess rules including valid piece movement, turn management, and check/checkmate detection.
 
 **🧠 Concepts Covered**  
