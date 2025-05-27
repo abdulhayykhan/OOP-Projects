@@ -58,7 +58,7 @@ A Java AWT-based GUI application that allows users to configure a car purchase b
 
 ---
 
-### 4. **ATM Simulator**
+### 4. **ATM Simulator 💳**
 A Java Swing-based GUI application that simulates basic ATM functionalities including login authentication, balance inquiry, deposit, withdrawal, and logout. Users can interact with the system through a user-friendly graphical interface.
 
 **🧠 Concepts Covered**  
