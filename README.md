@@ -76,6 +76,24 @@ A Java Swing-based GUI application that simulates basic ATM functionalities incl
 
 ---
 
+### 5. **Tic-Tac-Toe Game ❌⭕**
+A Java Swing-based GUI application of the classic Tic-Tac-Toe game (also known as Noughts and Crosses) supporting two-player local gameplay. The game features real-time move validation, win/draw detection, and interactive game controls in a clean UI.
+
+**🧠 Concepts Covered**
+- Classes & Objects
+- Encapsulation & Event Handling
+- GUI Design with Java Swing
+- Conditional Logic
+- Array-based Board Representation
+- Game State Management
+
+**🛠 Tech Stack**
+- Java ☕
+- Swing (GUI Framework) 🖼️
+- AWT Event Handling 🎮
+
+---
+
 🔹 **More projects coming soon...**
 
 ---
