@@ -110,4 +110,3 @@ public class TicTacToe extends JFrame implements ActionListener {
             game.setVisible(true);
         });
     }
-}
